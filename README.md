@@ -23,7 +23,7 @@ This repository contains resources and implementations related to Data Structure
 
 ### 4. Advanced Data Structures and Algorithms
 - **Heaps:** Implementation of Min Heap and Max Heap.
-- **Hash Tables and Hashing Techniques:** Learn about efficient data retrieval using hashing.
+- **Hash Tables
 
 
 ## How to Use
