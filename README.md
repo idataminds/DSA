@@ -5,28 +5,26 @@ This repository contains resources and implementations related to Data Structure
 
 ## Contents
 
-### 1. Introduction to DSA
-- **Importance of DSA in problem-solving:** Learn why DSA is crucial for efficient problem-solving in computer science.
-- **Big-O Notation:** Understand time and space complexity to analyze the performance of algorithms.
 
-### 2. Basic Data Structures
+
+### 1. Basic Data Structures
 - **Arrays and Lists:** Implementation and use cases of arrays and lists.
 - **Stacks and Queues:** Learn about these linear data structures and their operations.
 - **Linked Lists:** Implementation of Singly and Doubly Linked Lists.
 
-### 3. Trees and Graphs
-- **Binary Trees and Binary Search Trees:** Explore tree structures, traversals, and binary search operations.
-- **Graph Representation and Traversal:** Learn about graph data structures and traversal techniques such as DFS and BFS.
+### 2. Trees and Graphs
+- **Binary Trees and Binary Search Trees:** Explore tree structures and binary search operations.
+- **Graph Representation and Traversal:** Learn about graph data structures.
 
-### 4. Algorithms
+### 3. Algorithms
 - **Sorting Algorithms:** Implementations of Bubble Sort, Merge Sort, and Quick Sort.
 - **Searching Algorithms:** Linear Search and Binary Search techniques.
-- **Recursion and Dynamic Programming:** Concepts of recursion and memoization for solving complex problems.
 
-### 5. Advanced Data Structures and Algorithms
+
+### 4. Advanced Data Structures and Algorithms
 - **Heaps:** Implementation of Min Heap and Max Heap.
 - **Hash Tables and Hashing Techniques:** Learn about efficient data retrieval using hashing.
-- **Graph Algorithms:** Shortest Path and Minimum Spanning Tree algorithms.
+
 
 ## How to Use
 1. Clone the repository:
